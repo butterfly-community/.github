@@ -6,7 +6,7 @@ Create a special fully open source ultra-low cost hardware wallet platform with 
 The Secure Element (SE) of hardware implementation supports ATECC608A chip. Software implementation Secure Element (SE) supports any MCU, using MCU built-in security.
 
 ### OHW Pro
-Use a low cost SOC, Many vendors offer ultra-low cost optimized SOCs, such as Allwinner D1s, Rockchip RK3228, etc. 
+Use a low cost SOC, Many vendors offer ultra-low cost optimized SOCs, such as Allwinner D1s, Rockchip RK3308, etc. 
 
 The Secure Element (SE) of hardware implementation supports ATECC608A chip. Software implementation Secure Element (SE) supports any Linux/BSD.
 
