@@ -10,6 +10,7 @@ The Secure Element (SE) of hardware implementation supports ATECC608A chip. Soft
 | [ohw-nano-firmware](https://github.com/open-hardware-wallet/ohw-nano-firmware) | [ohw-hardware-design-module-atecc608a](https://github.com/open-hardware-wallet/ohw-hardware-design-module-atecc608a) (optional) |
 | [ohw-nano-se-software-lib](https://github.com/open-hardware-wallet/ohw-nano-se-software-lib) |                                                              |
 | [ohw-nano-se-protocol-lib](https://github.com/open-hardware-wallet/ohw-nano-se-protocol-lib) |                                                              |
+| [ohw-nano-protocol-sdk-c](https://github.com/open-hardware-wallet/ohw-nano-protocol-sdk-c) |                                                              |
 | [ohw-nano-se-hardware-atecc608a-lib](https://github.com/open-hardware-wallet/ohw-nano-se-hardware-atecc608a-lib) |                                                              |
 
 
@@ -36,6 +37,12 @@ This version has an estimated hardware cost of $100.
 | Software                                                     | Hardware                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [meta-ohw-ultra-tee](https://github.com/open-hardware-wallet/meta-ohw-ultra-tee) | [ohw-hardware-design-module-atecc608a](https://github.com/open-hardware-wallet/ohw-hardware-design-module-atecc608a) (optional) |
+
+## OHW App
+
+[ohw-app-desktop](https://github.com/open-hardware-wallet/ohw-app-desktop)
+
+[ohw-app-mobile](https://github.com/open-hardware-wallet/ohw-app-mobile)
 
 ## OHW Info
 The chips and hardware chosen for this project can be easily purchased from the market. No proprietary hardware or chips that are not publicly documented are used.
