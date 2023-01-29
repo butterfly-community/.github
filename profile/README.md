@@ -23,7 +23,7 @@ This version has an estimated hardware cost of $20.
 
 | Software                                                     | Hardware                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [meta-ohw-pro](https://github.com/open-hardware-wallet/meta-ohw-pro) | [ohw-hardware-design-module-atecc608a](https://github.com/open-hardware-wallet/ohw-hardware-design-module-atecc608a) (optional) |
+| [ohw-butterfly-pro-os](https://github.com/Butterfly-OHW/ohw-butterfly-pro-os) | [ohw-hardware-design-module-atecc608a](https://github.com/open-hardware-wallet/ohw-hardware-design-module-atecc608a) (optional) |
 
 ### OHW Ultra
 Use OP-TEE this is an open source Trusted Execution Environment (TEE) implementing the Arm TrustZone technology. TEE technology has the same security as a standalone hardware security chip. 
