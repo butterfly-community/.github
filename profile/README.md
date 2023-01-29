@@ -36,7 +36,7 @@ This version has an estimated hardware cost of $100.
 
 | Software                                                     | Hardware                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [meta-ohw-ultra-tee](https://github.com/open-hardware-wallet/meta-ohw-ultra-tee) | [ohw-hardware-design-module-atecc608a](https://github.com/open-hardware-wallet/ohw-hardware-design-module-atecc608a) (optional) |
+| [ohw-butterfly-ultra-os](https://github.com/Butterfly-OHW/ohw-butterfly-ultra-os) | [ohw-hardware-design-module-atecc608a](https://github.com/open-hardware-wallet/ohw-hardware-design-module-atecc608a) (optional) |
 
 ## OHW App
 
