@@ -24,6 +24,8 @@ This version has an estimated hardware cost of $20.
 | Software                                                     | Hardware                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [ohw-pro-butterfly-os](https://github.com/Butterfly-OHW/ohw-pro-butterfly-os) | [ohw-module-atecc608a](https://github.com/Butterfly-OHW/ohw-module-atecc608a) (optional) |
+| [ohw-universal-services-embedded-gui](https://github.com/Butterfly-OHW/ohw-universal-services-embedded-gui) |                                                              |
+| [ohw-universal-services-bluetooth](https://github.com/Butterfly-OHW/ohw-universal-services-bluetooth) |                                                              |
 
 ### OHW Ultra
 Use OP-TEE this is an open source Trusted Execution Environment (TEE) implementing the Arm TrustZone technology. TEE technology has the same security as a standalone hardware security chip. 
@@ -37,6 +39,8 @@ This version has an estimated hardware cost of $100.
 | Software                                                     | Hardware                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [ohw-ultra-butterfly-os](https://github.com/Butterfly-OHW/ohw-ultra-butterfly-os) | [ohw-module-atecc608a](https://github.com/Butterfly-OHW/ohw-module-atecc608a) (optional) |
+| [ohw-universal-services-embedded-gui](https://github.com/Butterfly-OHW/ohw-universal-services-embedded-gui) |                                                              |
+| [ohw-universal-services-bluetooth](https://github.com/Butterfly-OHW/ohw-universal-services-bluetooth) |                                                              |
 
 ## OHW App
 
