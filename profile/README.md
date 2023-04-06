@@ -42,9 +42,6 @@ This version has an estimated hardware cost of $100.
 | [utterfly-app-mobile](https://github.com/Butterfly-OHW/butterfly-app-mobile) | [butterfly-app-desktop ](https://github.com/Butterfly-OHW/butterfly-app-desktop) |
 
 
-
-[ohw-app-mobile](https://github.com/open-hardware-wallet/ohw-app-mobile)
-
 ## Butterfly Info
 The chips and hardware chosen for this project can be easily purchased from the market. No proprietary hardware or chips that are not publicly documented are used.
 
