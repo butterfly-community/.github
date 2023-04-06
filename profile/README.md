@@ -39,7 +39,7 @@ This version has an estimated hardware cost of $100.
 
 | Mobile                                                     | Desktop                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [utterfly-app-mobile](https://github.com/Butterfly-OHW/butterfly-app-mobile) | [butterfly-app-desktop ](https://github.com/Butterfly-OHW/butterfly-app-desktop) |
+| [butterfly-app-mobile](https://github.com/Butterfly-OHW/butterfly-app-mobile) | [butterfly-app-desktop ](https://github.com/Butterfly-OHW/butterfly-app-desktop) |
 
 
 ## Butterfly Info
