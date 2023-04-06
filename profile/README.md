@@ -11,7 +11,7 @@ The estimated hardware cost for this version is $100.
 
 | Software                                                     | Hardware                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [butterfly-ohw-os](https://github.com/Butterfly-OHW/butterfly-ohw-os) | [butterfly-ohw-hardware](https://github.com/Butterfly-OHW/butterfly-ohw-hardware)|
+| [meta-butterfly-ohw-os](https://github.com/Butterfly-OHW/meta-butterfly-ohw-os) | [butterfly-ohw-hardware](https://github.com/Butterfly-OHW/butterfly-ohw-hardware)|
 
 
 The chips and hardware selected for this project can be easily sourced from the market, with no proprietary hardware or undocumented chips being used.
