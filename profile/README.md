@@ -4,6 +4,10 @@
 
 Some small works combining software and hardware.
 
+| Repo                                                     | Info                                                     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [water-heater](https://github.com/butterfly-communtiy/water-heater) | This open-source solution for a water heater replaces the original controller to enable remote smart control.|
+
 ### Butterfly OHW Ultra
 
 The Butterfly OHW Ultra utilizes OP-TEE, an open-source Trusted Execution Environment (TEE) that implements the Arm TrustZone technology. TEE technology offers security on par with standalone hardware security chips.
