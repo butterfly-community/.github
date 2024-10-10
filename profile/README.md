@@ -12,7 +12,11 @@ Some small works combining software and hardware.
 
 A cheaper hardware wallet, the cost is less than $ 1. Support WiFi Bluetooth communication and optional screens.
 
+Leverage Zephyr RTOS to support diverse microcontrollers from multiple vendors, mitigating vendor lock-in risks. Implement Bluetooth and Wi-Fi functionality on Espressif ESP32 series chipsets.
 
+| Software                                                     |
+| ------------------------------------------------------------ |
+| [butterfly-ohw-firmware]([https://github.com/butterfly-communtiy/meta-butterfly-ohw-os](https://github.com/butterfly-communtiy/butterfly-ohw-firmware)) |
 
 ### Butterfly OHW Ultra
 
