@@ -16,7 +16,7 @@ Leverage Zephyr RTOS to support diverse microcontrollers from multiple vendors, 
 
 | Software                                                     |
 | ------------------------------------------------------------ |
-| [butterfly-ohw-firmware]([https://github.com/butterfly-communtiy/meta-butterfly-ohw-os](https://github.com/butterfly-communtiy/butterfly-ohw-firmware)) |
+| [butterfly-ohw-firmware](https://github.com/butterfly-communtiy/butterfly-ohw-firmware) |
 
 ### Butterfly OHW Ultra
 
