@@ -14,7 +14,7 @@ A cheaper hardware wallet, the cost is less than $ 1. Support WiFi Bluetooth com
 
 Leverage Zephyr RTOS to support diverse microcontrollers from multiple vendors, mitigating vendor lock-in risks. Implement Bluetooth and Wi-Fi functionality on Espressif ESP32 series chipsets.
 
-This is not just a hardware wallet, implementation of a FIDO2 security key.
+This is not just a hardware wallet, implementation of a FIDO2 security key. FIDO2 (Fast IDentity Online 2) is an open standard for user authentication that aims to strengthen the way people sign in to online services to increase overall trust. FIDO2 strengthens security and protects individuals and organizations from cybercrimes by using phishing-resistant cryptographic credentials to validate user identities.
 
 | Software                                                     |
 | ------------------------------------------------------------ |
