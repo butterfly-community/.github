@@ -2,13 +2,21 @@
 
 ### Butterfly OHW ELF
 
-A vendor-independent hardware wallet supporting hundreds of chips, helping people own their truly personal hardware wallets. Fully implements wallet protocols, and includes a set of tools for common development boards available in the market. The minimum supported chip costs only $0.3.
+ohw-elf free from vendor lock-in, supporting hundreds of chips from multiple manufacturers. Complete wallet protocol implementation with tools for any Zephyr RTOS compatible development boards. The minimum supported chip costs only $0.3.
 
 We created our own board for demos - similar to others but more refined and production-ready.
 
 | Software                                                     | Hardware                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [butterfly-ohw-elf](https://github.com/butterfly-communtiy/ohw-elf-firmware) | [butterfly-ohw-elf-board](https://github.com/butterfly-communtiy/ohw-elf-firmware) |
+
+### Butterfly OHW ELF Card
+
+An intriguing concept: A hardware wallet built on smartcard technology -  similar to transit cards, bank cards, and SIM cards. Runs a complete  wallet directly on the card, achieving high security at low cost. Easily interacts via phone's built-in NFC.
+
+| Software                                                     |
+| ------------------------------------------------------------ |
+| [butterfly-ohw-elf-card](https://github.com/butterfly-communtiy/ohw-elf-card) |
 
 ### Things
 
