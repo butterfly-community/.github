@@ -10,6 +10,10 @@ We created our own board for demos - similar to others but more refined and prod
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [butterfly-ohw-elf](https://github.com/butterfly-communtiy/ohw-elf-firmware) | [butterfly-ohw-elf-board](https://github.com/butterfly-communtiy/ohw-elf-firmware) |
 
+#### What can I do now?
+
+[![OHW](https://res.cloudinary.com/marcomontalbano/image/upload/v1733827828/video_to_markdown/images/youtube--JkhVWNCGZvg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JkhVWNCGZvg "OHW")
+
 ### Butterfly OHW ELF Card
 
 An intriguing concept: A hardware wallet built on smartcard technology -  similar to transit cards, bank cards, and SIM cards. Runs a complete  wallet directly on the card, achieving high security at low cost. Easily interacts via phone's built-in NFC.
