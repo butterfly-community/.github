@@ -1,5 +1,7 @@
 ## Butterfly
 
+We bridge blockchain and physical devices by providing foundational infrastructure for DePIN development.
+
 ### Butterfly OHW ELF
 
 OHW ELF is an open hardware wallet, free from vendor lock-in, supporting hundreds of chips from multiple manufacturers. The minimum supported chip costs only $0.3.
