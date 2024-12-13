@@ -1,6 +1,6 @@
 ## Butterfly
 
-We bridge blockchain and physical devices by providing foundational infrastructure for DePIN development.
+We are building core infrastructure bridging blockchain with physical devices for DePIN development.
 
 ### Butterfly OHW ELF
 
