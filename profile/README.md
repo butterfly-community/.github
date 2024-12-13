@@ -2,7 +2,7 @@
 
 ### Butterfly OHW ELF
 
-OHW-ELF is an open hardware walletohw, free from vendor lock-in, supporting hundreds of chips from multiple manufacturers. The minimum supported chip costs only $0.3.
+OHW ELF is an open hardware wallet, free from vendor lock-in, supporting hundreds of chips from multiple manufacturers. The minimum supported chip costs only $0.3.
 
 We created our own board for demos - similar to others but more refined and production-ready.
 
