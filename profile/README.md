@@ -1,6 +1,6 @@
 ## Butterfly
 
-We are building core infrastructure connecting blockchain with physical devices for DePIN.
+We are building core infrastructure connecting blockchain with physical devices.
 
 ### Butterfly OHW ELF
 
