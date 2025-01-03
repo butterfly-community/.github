@@ -14,7 +14,7 @@ We created our own board for demos - similar to others but more refined and prod
 
 #### What can this product do？
 
-[![OHW](https://res.cloudinary.com/marcomontalbano/image/upload/v1733827828/video_to_markdown/images/youtube--JkhVWNCGZvg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=JkhVWNCGZvg "OHW")
+[![Open Hardware Wallet - Task 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1735636806/video_to_markdown/images/youtube--q8UIM43psh4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=q8UIM43psh4 "Open Hardware Wallet - Task 2")
 
 ### Butterfly OHW ELF Card
 
