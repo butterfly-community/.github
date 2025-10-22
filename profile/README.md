@@ -12,9 +12,6 @@ We created our own board for demos - similar to others but more refined and prod
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [butterfly-oskey-elf](https://github.com/butterfly-communtiy/oskey-elf-firmware) | [butterfly-oskey-elf-board](https://github.com/butterfly-communtiy/oskey-elf-firmware) |
 
-#### What can this product do？
-
-[![Open Hardware Wallet - Task 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1736601213/video_to_markdown/images/youtube--Tk8S3mavd5I-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=Tk8S3mavd5I "Open Hardware Wallet - Task 3")
 
 
 ### Butterfly OSKey Card
