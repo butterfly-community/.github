@@ -10,7 +10,7 @@ We created our own board for demos - similar to others but more refined and prod
 
 | Software                                                     | Hardware                                                     |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [OSKey](https://github.com/butterfly-community/oskey-firmware) | [OSKek ELF Board](https://github.com/butterfly-community/oskey-elf-hardware) |
+| [OSKey](https://github.com/butterfly-community/oskey-firmware) | [OSKey ELF Board](https://github.com/butterfly-community/oskey-elf-hardware) |
 
 
 ### Things
